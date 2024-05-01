@@ -1,4 +1,5 @@
-Repositorio de Portafolio de Ciencia de datos de Pablo Chamena
+Repositorio de reservado para el Portafolio de Ciencia de datos.
+Pablo Chamena
 
 # Smart House
 
